@@ -98,6 +98,6 @@
   <a href="https://x.com/abhiroop_ch1508" target="_blank">
     <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/26d6092a-fae7-4a47-853e-ef1640deebae" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://shadowscythe03.github.io/" target="_blank">
     <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/beb72b36-9d2c-4a25-a68e-10f70e4b43d3" />
   </a>
